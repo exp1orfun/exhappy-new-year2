@@ -12,49 +12,57 @@ img {
 
 
 h1{
-    color: azure ;
+    color: black ;
     text-align: center;
    font-size: 70px;
-   background: darkgreen;
+   background: ;
    border-radius:20px ;
    opacity: 0.79;
 }
 body {
-    background: url(https://avatars.mds.yandex.net/i?id=c6f801e0226a5a43e5d8f7877dfb76995cc5619b-8239440-images-thumbs&n=13)
+    background: url(https://klike.net/uploads/posts/2022-10/1664619906_v.jpg);
+    background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
     
 }
 body{
    background-size: 1600px 1200px;
 }
 h2{
-    color: azure ;
+    color: black ;
     text-align: center;
    font-size: 70px;
-   background: darkgreen;
+   background: ;
    border-radius:20px ;
    opacity: 0.79;
 }
 h3 {
-    color: azure ;
+    color: black ;
     text-align: center;
    font-size: 70px;
-   background: darkgreen;
+   background: ;
    border-radius:20px ;
    opacity: 0.79;
 }
 h4{
-    color: azure ;
+    color: black ;
     text-align: center;
    font-size: 70px;
-   background: darkgreen;
+   background: ;
    border-radius:20px ;
    opacity: 0.79;
 }
 h5{
-    color: azure ;
+    color: black ;
     text-align: center;
    font-size: 70px;
-   background: darkgreen;
+   background: ;
    border-radius:20px ;
    opacity: 0.79;
+}
+.logotip {
+    width: 50px;
+    height: 50px;
 }
